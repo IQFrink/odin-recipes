@@ -35,3 +35,11 @@ a:hover {
     color: ghostwhite;
     text-shadow: 2px 3px 4px blue;
 }
+
+.link {
+    margin: 20px;
+    display: block;
+    padding: 20px;
+    background-color: grey;
+    border: 2px dotted black;
+}
