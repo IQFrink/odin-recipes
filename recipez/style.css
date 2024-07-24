@@ -6,9 +6,32 @@
 
 li {
     text-align: left;
+    margin: 10px;
+    padding: 5px;
+    border: 2px black;
 }
 
 h1 {
     color: white;
     text-shadow: color(black);
+}
+
+button {
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+    color: black;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: blueviolet;
+}
+
+#title {
+    color: ghostwhite;
+    text-shadow: 2px 3px 4px blue;
 }
